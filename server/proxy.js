@@ -1,3 +1,6 @@
+import dotenv from "dotenv";
+dotenv.config();
+
 // server/proxy.js (ES module format)
 
 import express from "express";
