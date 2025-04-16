@@ -1,0 +1,15 @@
+{
+    "name": "langflow-proxy",
+    "version": "1.0.0",
+    "type": "module",
+    "main": "server/proxy.js",
+    "scripts": {
+      "start": "node server/proxy.js"
+    },
+    "dependencies": {
+      "cors": "^2.8.5",
+      "express": "^4.18.2",
+      "node-fetch": "^3.3.2"
+    }
+  }
+  
